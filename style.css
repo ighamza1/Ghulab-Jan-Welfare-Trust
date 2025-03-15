@@ -14,7 +14,7 @@
     max-width: 100%;
 }
 .custom-carousel {
-    max-width: 80%;  /* Reduce width to 70% of the screen */
+    max-width: 100%;  /* Reduce width to 70% of the screen */
     max-height: 450px; /* Limit height */
     margin: 0 auto; /* Center it */
   }
